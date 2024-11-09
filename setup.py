@@ -41,6 +41,7 @@ setup_kwargs = {
     "version": pyproject["tool"]["poetry"]["version"],
     "description": "API to get tenders from Taiwan",
     "long_description": readme(),
+    "long_description_content_type": "text/markdown",
     "author": author,
     "author_email": author_email,
     "maintainer": author,
